@@ -1,0 +1,13 @@
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\obj\Debug\netcoreapp3.1\reverse-string-c-sharp.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\obj\Debug\netcoreapp3.1\reverse-string-c-sharp.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\obj\Debug\netcoreapp3.1\reverse-string-c-sharp.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\obj\Debug\netcoreapp3.1\reverse-string-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\bin\Debug\netcoreapp3.1\reverse-string-c-sharp.exe
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\bin\Debug\netcoreapp3.1\reverse-string-c-sharp.deps.json
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\bin\Debug\netcoreapp3.1\reverse-string-c-sharp.runtimeconfig.json
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\bin\Debug\netcoreapp3.1\reverse-string-c-sharp.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\bin\Debug\netcoreapp3.1\reverse-string-c-sharp.dll
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\bin\Debug\netcoreapp3.1\reverse-string-c-sharp.pdb
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\obj\Debug\netcoreapp3.1\reverse-string-c-sharp.dll
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\obj\Debug\netcoreapp3.1\reverse-string-c-sharp.pdb
+C:\Users\Daniel\Desktop\reverse-string-c-sharp\obj\Debug\netcoreapp3.1\reverse-string-c-sharp.genruntimeconfig.cache
